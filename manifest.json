@@ -1,0 +1,20 @@
+{
+  "name": "Website Kall x Crash",
+  "short_name": "Website Kall x Crash",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6610f2",
+  "icons": [
+    {
+      "src": "icon-384.png",
+      "sizes": "384x382",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-362.png",
+      "sizes": "362x362",
+      "type": "image/png"
+    }
+  ]
+}
